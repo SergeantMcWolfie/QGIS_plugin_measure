@@ -9,7 +9,6 @@
 <li>biblioteka qgis.PyQt
 <li>biblioteka qgis.core
 <li>biblioteka qgis.utils
-<li>biblioteka numpy
 <li>biblioteka os
 </ul> <br>
 
