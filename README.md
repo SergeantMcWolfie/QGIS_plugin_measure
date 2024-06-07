@@ -5,7 +5,7 @@
 <ul>
 <li>system Windows 11 
 <li>program QGIS w wersji minimum 3.34
-<li>python 3.9
+<li>python 3.11
 <li>biblioteka qgis.PyQt
 <li>biblioteka qgis.core
 <li>biblioteka qgis.utils
